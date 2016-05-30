@@ -14,4 +14,4 @@ For more details on build process please follow the toturial @ [dzone.com/articl
 
 ### Releases
 
-- Hadoop 2.2.0 [tar.gz](  ) | [zip](  )
+- Hadoop 2.2.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.zip)
