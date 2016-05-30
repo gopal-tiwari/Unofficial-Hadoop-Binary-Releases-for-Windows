@@ -14,4 +14,4 @@ For more details on build process please follow the toturial @ [dzone.com/articl
 
 ### Releases
 
-- Hadoop 2.2.0 [tar.gz]() | [zip]()
+- Hadoop 2.2.0 [tar.gz](  ) | [zip](  )
