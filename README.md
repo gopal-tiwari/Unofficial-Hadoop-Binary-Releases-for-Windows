@@ -1,4 +1,4 @@
-# Unofficial Apache Hadoop Binaries for Windows OS
+# Download Apache Hadoop Binaries for Windows OS
 
 This project aims to provide you an unofficial binary release of Apache Hadoop for Windows 64-bit platform. 
 
@@ -12,7 +12,7 @@ Here you will find all Apache Hadoop binary distributions from & onwards version
 Followed official Hadoop build instructions listed [here](https://github.com/apache/hadoop/blob/trunk/BUILDING.txt). 
 For more details on build process please follow the toturial @ [dzone.com/articles/build-and-install-hadoop-on-windows-with-native-bi](https://dzone.com/articles/build-and-install-hadoop-on-windows-with-native-bi).
 
-### Releases
+### Download Releases
 
 - Hadoop 2.3.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.3.0/hadoop-2.3.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.3.0/hadoop-2.3.0.zip)
 - Hadoop 2.2.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.zip)
