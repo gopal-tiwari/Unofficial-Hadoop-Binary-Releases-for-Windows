@@ -14,6 +14,7 @@ For more details on build process please follow the toturial @ [dzone.com/articl
 
 ### Download Releases
 
+- Hadoop 2.4.1 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.4.1/hadoop-2.4.1.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.4.1/hadoop-2.4.1.zip)
 - Hadoop 2.4.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.4.0/hadoop-2.4.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.4.0/hadoop-2.4.0.zip)
 - Hadoop 2.3.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.3.0/hadoop-2.3.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.3.0/hadoop-2.3.0.zip)
 - Hadoop 2.2.0 [tar.gz](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.tar.gz) | [zip](https://github.com/gopal-tiwari/Unofficial-Hadoop-Releases-for-Windows/releases/download/v2.2.0/hadoop-2.2.0.zip)
